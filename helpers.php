@@ -3,7 +3,7 @@
 /**
  * get the base path
  * 
- * @param stirng $path
+ * @param string $path
  * @return string
  */
 
